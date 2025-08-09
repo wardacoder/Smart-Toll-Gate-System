@@ -54,7 +54,6 @@ Smart-Toll-Gate-System/
   - keypad_module.py
   - flask_server.py
 - README.md
-- .gitignore
 - LICENSE
 
 ---
